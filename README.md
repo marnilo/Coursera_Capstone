@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM Pro Cert in Data Science Capstone Project
+## Capstone Project for IBM Data Science Professional Certificate specialization in Coursera
