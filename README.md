@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM Pro Cert in Data Scie Capstone Project
+IBM Pro Cert in Data Science Capstone Project
